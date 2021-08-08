@@ -10,3 +10,16 @@ We are awesome people.
  * JS
  * SQL
  * JTML5/CSS3
+
+ fgd
+ g
+ fdg
+ df
+ gdf
+ g
+ df
+ g
+ df
+ dfg
+ dfg
+ 
