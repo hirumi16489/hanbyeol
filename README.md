@@ -2,7 +2,8 @@
 
 ## Java project about chat
 
-We are 6 people working on a java project. The goal of the website is to propose a chat using websocket
+We are 6 people working on a java project. The goal of the website is to propose a chat using websocket.
+We are awesome people.
 
 ### Technical Stack
  * Java
